@@ -1,14 +1,14 @@
 city_population = {
-      "Tokyo, Japan" : "37,194,105",
-      "Shanghai, China" : "40,800,000",
-      "Jakarta, Indonesia" : "10,915,364",
-      "Mexico City, Mexico" : "25,100,000",
-      "Seoul, South Korea" : "25,100,100",
-      "New York City, U.S." : "22,000,000",
-      "Bangkok, Thailand" : "21,200,000",
-      "Moscow, Russia" : "19,100,000",
-      "Buenos Aires, Argentina" : "16,700,000",
-      "Manila, Philippines" :"1,600,000"
+      "Tokyo, Japan" : 37,194,105,
+      "Shanghai, China" : 40,800,000,
+      "Jakarta, Indonesia" : 10,915,364,
+      "Mexico City, Mexico" : 25,100,000,
+      "Seoul, South Korea" : 25,100,100,
+      "New York City, U.S." : 22,000,000,
+      "Bangkok, Thailand" : 21,200,000,
+      "Moscow, Russia" : 19,100,000,
+      "Buenos Aires, Argentina" : 16,700,000,
+      "Manila, Philippines" : 1,600,000
 }
 
 print(city_population)
