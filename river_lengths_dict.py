@@ -19,4 +19,4 @@ print(rivers_length)
 
 last_key = list(rivers_length.keys())[-1]
 last_value = rivers_length[last_key]
-print("The last key-value pair is", last_key, ":", last_value)
+print("The last key-value is", last_key, ":", last_value)
