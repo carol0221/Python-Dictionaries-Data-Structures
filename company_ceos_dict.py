@@ -21,6 +21,7 @@ print(companies_ceos)
 del companies_ceos["Disney"]
 print(companies_ceos)
 
+
 last_key = list(companies_ceos.keys())[-1]
 last_value = companies_ceos[last_key]
 print("The last key-value pair is", last_key, ":", last_value)

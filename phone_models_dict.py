@@ -24,3 +24,4 @@ print(phone_models)
 last_key = list(phone_models.keys())[-1]
 last_value = phone_models[last_key]
 print("The last key-value pair is", last_key, ":", last_value)
+
